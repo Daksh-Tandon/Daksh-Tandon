@@ -1,7 +1,11 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Daksh-Tandon&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 
 # Hi 👋, I'm Daksh Tandon
+![Profile Views](https://komarev.com/ghpvc/?username=Daksh-Tandon&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daksh-Tandon&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Daksh-Tandon)
+
 
 🚀 A passionate **Frontend Developer** learning and building projects with **JavaScript & React**.  
 I enjoy creating responsive web applications and improving my problem-solving skills every day.
