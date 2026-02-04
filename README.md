@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Daksh-Tandon&label=Profile%20Views&color=0e75b6&style=flat)
-&color=brightgreen
+
 
 # Hi 👋, I'm Daksh Tandon
 
