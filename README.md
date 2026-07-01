@@ -21,8 +21,8 @@ I enjoy creating responsive web applications and improving my problem-solving sk
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** React  
+- **Languages:** JavaScript, HTML, CSS  ,C,C++ ,JAVA
+- **Frameworks & Libraries:** React Express,Streamlit 
 - **Tools:** Git, GitHub, Vite, VS Code  
 - **Deployment:** Vercel  
 
