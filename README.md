@@ -1,61 +1,85 @@
+# Hey, I'm Daksh Tandon 👋
 
+### Full Stack Developer | AI/GenAI Enthusiast | Problem Solver
 
+I'm a Computer Science undergraduate at Maharaja Surajmal Institute of Technology (MSIT), passionate about building full-stack applications and AI-powered solutions.
 
-# Hi 👋, I'm Daksh Tandon
-![Profile Views](https://komarev.com/ghpvc/?username=Daksh-Tandon&label=Profile%20Views&color=0e75b6&style=flat)
+I enjoy solving challenging DSA problems, exploring Generative AI, and developing applications that solve real-world problems.
 
-
-🚀 A passionate **Frontend Developer** learning and building projects with **JavaScript & React**.  
-I enjoy creating responsive web applications and improving my problem-solving skills every day.
-
----
-
-## 👨‍💻 About Me
-
-- 🌱 Currently learning **React, JavaScript & Web Development**
-- 🧠 Interested in **Frontend Development**
-- 🛠️ Building real-world projects to strengthen fundamentals
-- 🎯 Goal: Become a skilled **Full Stack Developer**
+- 🎓 B.Tech CSE (2024–2028)
+- 💻 Interested in Full Stack Development & AI Engineering
+- 🧠 Practicing DSA using Java
+- 🤖 Exploring RAG, LLMs, and Agentic AI
+- 🚀 Building projects using React, Python, FastAPI and Java
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, HTML, CSS  ,C,C++ ,JAVA
-- **Frameworks & Libraries:** React Express,Streamlit 
-- **Tools:** Git, GitHub, Vite, VS Code  
-- **Deployment:** Vercel  
+**Languages**
+
+Java | Python | JavaScript | SQL
+
+**Frontend**
+
+HTML | CSS | JavaScript | React.js | Tailwind CSS
+
+**Backend**
+
+Node.js | Express.js | FastAPI | Java Servlets | JSP
+
+**Database**
+
+MySQL | MongoDB
+
+**AI / Machine Learning**
+
+LangChain | LangGraph | RAG | FAISS | LLMs | Pandas | NumPy | Scikit-learn
+
+**Tools**
+
+Git | GitHub | VS Code | Postman
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-### 🍽️ Recipe Finder App
-A responsive web app to search recipes and view cooking instructions using an external API.
+### 🤖 Smart Education Mentor
+An AI-powered educational assistant that provides personalized learning support using RAG and multi-agent architecture.
 
-**Tech Used:** React, Vite, CSS  
-🔗 Repo: [Recipe Finder App](https://github.com/Daksh-Tandon/recipes-finder-app-js)
+**Tech:** Python, FastAPI, React, LangChain, LangGraph, FAISS, MongoDB
+
+### 📚 Placement Preparation App
+A web-based platform that helps students prepare for placements through structured learning tasks, progress tracking and leaderboards.
+
+**Tech:** Java Servlets, JSP, MySQL, HTML, CSS, JavaScript
+
+### 🌐 Portfolio Website
+A personal portfolio showcasing my projects, technical skills and development journey with dynamic GitHub project integration.
+
+**Tech:** React.js, Node.js, Express.js
 
 ---
 
-### ⚖️ BMI Calculator
-A simple JavaScript project to calculate Body Mass Index.
+## 💡 Problem Solving
 
-**Tech Used:** HTML, CSS, JavaScript  
-🔗 Repo: [BMI Calculator](https://github.com/Daksh-Tandon/BMI-JS)
+- Solving Data Structures and Algorithms problems using Java.
+- Practicing Dynamic Programming, Graphs, Trees, Greedy and Backtracking.
+- Continuously improving problem-solving and competitive programming skills.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
-![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daksh-Tandon&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daksh-Tandon&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Tandon&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💻 GitHub: [Daksh-Tandon](https://github.com/Daksh-Tandon)
+- GitHub: https://github.com/Daksh-Tandon
+- LinkedIn: https://www.linkedin.com/in/daksh-tandon-1986b2322/
 
----
-
-⭐ *Feel free to explore my repositories and give feedback!*  
+⭐ Always learning, building and improving!
