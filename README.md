@@ -1,23 +1,22 @@
 # 👋 Hey, I'm Daksh Tandon!
 
-### 💻 Full Stack Developer | 🤖 AI/GenAI Enthusiast | 🧠 Problem Solver
+### 💻 Full Stack Developer | 🤖 AI/GenAI Enthusiast
 
-I'm a Computer Science undergraduate at **Maharaja Surajmal Institute of Technology (MSIT)** with a passion for building full-stack applications and intelligent AI-powered solutions.
+I'm a Computer Science undergraduate at **Maharaja Surajmal Institute of Technology (MSIT)**, passionate about building full-stack applications and intelligent AI-powered solutions.
 
-I enjoy solving challenging problems, exploring emerging technologies, and turning ideas into practical applications.
+I enjoy exploring emerging technologies, developing practical applications, and combining software engineering with Artificial Intelligence.
 
 - 🎓 B.Tech CSE @ MSIT (2024–2028)
 - 🏆 **CGPA: 9.71/10**
 - 💻 Interested in Full Stack Development & AI Engineering
 - 🤖 Exploring Generative AI, RAG and Agentic AI
-- 🧠 Practicing Data Structures & Algorithms using Java
-- 🚀 Building projects that combine software development and AI
+- 🚀 Building real-world applications using modern technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,7 +43,7 @@ I enjoy solving challenging problems, exploring emerging technologies, and turni
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Tools
+### Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -55,7 +54,7 @@ I enjoy solving challenging problems, exploring emerging technologies, and turni
 ## 🚀 Featured Projects
 
 ### 🤖 Smart Education Mentor
-An AI-powered educational assistant that provides personalized learning support using RAG and multi-agent architecture.
+An AI-powered educational assistant providing personalized learning support through RAG and multi-agent architecture.
 
 - RAG-based document retrieval and contextual responses.
 - Multi-agent workflow with AI teacher and evaluation agent.
@@ -64,7 +63,7 @@ An AI-powered educational assistant that provides personalized learning support 
 
 **Tech Stack:** Python, FastAPI, React, LangChain, LangGraph, FAISS, MongoDB, LLMs.
 
-🔗 [View Repository](https://github.com/Daksh-Tandon/Smart_Education_mentor)
+🔗 [View Repository](https://github.com/Daksh-Tandon/Smart_Education_Mentor1)
 
 ### 📚 Placement Preparation App
 A web-based platform designed to help students organize and track their placement preparation.
@@ -96,29 +95,6 @@ A personal portfolio showcasing my projects, technical skills and development jo
 - 🎓 **9.71/10 CGPA** — B.Tech Computer Science & Engineering.
 - 🇮🇳 **Smart India Hackathon (SIH)** — Participated in the Internal Hackathon.
 - 🤖 **AI-Shala Training Program** — Hands-on exposure to Machine Learning, Deep Learning, Generative AI, RAG and Agentic AI.
-- 🧠 Regular practice of Data Structures & Algorithms and competitive programming.
-
----
-
-## 🧠 Problem Solving
-
-I actively work on improving my algorithmic thinking and problem-solving skills using Java.
-
-**Topics I Practice:**
-- Data Structures & Algorithms
-- Dynamic Programming
-- Graphs (BFS, DFS, Dijkstra, DSU)
-- Greedy Algorithms
-- Trees and Binary Search
-- Sliding Window & Two Pointers
-- Backtracking
-- Competitive Programming
-
-**Coding Platforms:**
-
-- [LeetCode](https://leetcode.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [Codeforces](https://codeforces.com/)
 
 ---
 
@@ -139,4 +115,15 @@ I actively work on improving my algorithmic thinking and problem-solving skills 
 
 <p align="left">
   <a href="https://github.com/Daksh-Tandon">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-b
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/daksh-tandon-1986b2322/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💡 "Building, Learning, and Improving — One Project at a Time."
+
+⭐ Thanks for visiting my profile!
